@@ -72,7 +72,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/
+git clone https://github.com/MASTER-JD/slam_aria_mirror_bot_HEROKU/
 cd slam_aria_mirror_bot_HEROKU
 ```
 
